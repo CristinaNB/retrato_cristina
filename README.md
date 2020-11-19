@@ -2,6 +2,6 @@
 Retrato Cristina Processing
 [cristina_retrato](cristina.pde)
 
-Captura de pantalla del Processing[clase_navalon](clase_navalon.pdf)
+Pdf con la composicion final [4_diseñografico](clase_navalon.pdf)
 
-Fotografía del resultado final [fotografia](resultado_final.jpg)
+Fotografía del resultado final [fotografia](resultado_final.JPG)
