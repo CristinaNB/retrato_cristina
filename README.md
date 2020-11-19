@@ -1,5 +1,5 @@
 # retrato_cristina
-Retrato Cristina Processing
+Retrato Cristina Processing 
 [cristina_retrato](cristina.pde)
 
 Pdf con la composicion final [4_diseñografico](clase_navalon.pdf)
